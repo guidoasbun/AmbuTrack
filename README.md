@@ -2,7 +2,7 @@
 
 ![Project Image](https://guidoasbun.s3.amazonaws.com/Ambutrack-image.png)
 
-> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guidoasbun/ambutrack) 
+> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/guidoasbun/ambutrack) ![GitHub](https://img.shields.io/github/license/guidoasbun/ambutrack) ![GitHub last commit](https://img.shields.io/github/last-commit/guidoasbun/Ambutrack)
 
 ---
 
